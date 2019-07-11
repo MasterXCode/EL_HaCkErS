@@ -10,6 +10,7 @@ pkg install php openssh python curl openssl-tool nmap ruby perl toilet figlet fi
 clear
 
 touch /$PREFIX/bin/EL_HaCkErS 
+chmod 777 /$PREFIX/bin/EL_HaCkErS
 echo ' python /$HOME/EL_HaCkErS/EL_HaCkErS.py ' > /$PREFIX/bin/EL_HaCkErS 
 
 clear
