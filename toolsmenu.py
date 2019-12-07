@@ -53,12 +53,12 @@ def so () :
          print ("Creator : MASTERX ")
          print ("Channel Youtube : MASTER X ")
          print ("Script Version : 1.1 ")
-         print ("My Github Repo : https://github.com/seifsherifssss")
+         print ("My Github Repo : https://github.com/MasterXCode")
     else :
       loop3 = input ("Are You Sure y/n >>>   ")
       if loop3 == 'y' :
           import os 
-          os.system (" clear && toilet -f big 'UPDATING' | lolcat && cd /$HOME && rm -rif MasterMarket &&git clone https://github.com/seifsherifssss/MasterMarket ")
+          os.system (" clear && toilet -f big 'UPDATING' | lolcat && cd /$HOME && rm -rif MasterMarket &&git clone https://github.com/MasterXCode ")
       if loop3 == 'n' :
          import os
          os.system("clear")
@@ -95,7 +95,7 @@ def so () :
        os.system ("clear && toilet -f big 'OSIF' | lolcat && cd /$HOME && git clone https://github.com/ciku370/OSIF")
     if loop2 == '10' :
        import os 
-       os.system (" clear && toilet -f big 'BeeF' | lolcat && cd /$HOME && git clone https://github.com/seifsherifssss/BeeF && cd BeeF && bash beef.sh && bash FixBigdecimal.sh ")
+       os.system (" clear && toilet -f big 'BeeF' | lolcat && cd /$HOME && git clone https://github.com/MasterXCode/BeeF && cd BeeF && bash beef.sh && bash FixBigdecimal.sh ")
     if loop2 == '11' :
       import os
       os.system("clear && toilet -f big 'Tool-X' | lolcat && cd /$HOME && git clone https://github.com/eroz78/toolx ")
