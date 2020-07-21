@@ -3,7 +3,7 @@ I have Gathered all my scripts in one Script ( EL_HaCkErS) to install any script
 
 It's version 1 .... wait for more 😎💪
 
-Made by MASTERX AND FARID FATHI 
+Made by MASTERX
 
 ###########
 
