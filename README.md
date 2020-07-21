@@ -1,5 +1,5 @@
 # EL_HaCkErS
-I have Gathered all my scripts in one Script ( EL_HaCkErS) to install any script of them easily    It's version 1 .... wait for more 😎💪  Made by MASTERX AND FARID FATHI 
+I have Gathered all my scripts in one Script ( EL_HaCkErS) to install any script of them easily    It's version 1 .... wait for more 😎💪  Made by MASTERX
 ###########
 
 Installation 
